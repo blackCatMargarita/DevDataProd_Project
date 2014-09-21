@@ -1,0 +1,235 @@
+Country ,IOS,Region,Population,GDP_PPP,GDP,GDP_PC_PPP,GDP_PC,HDI
+Afghanistan,AFG,Southern Asia,30552,n/a,"20,496.78",n/a,n/a,0.374
+Albania,ALB,Southern Europe,3173,"28,211.43","12,648.10","9,962.57","4,466.89",0.749
+Algeria,DZA,Northern Africa,39208,"474,759.23","205,788.80","13,195.02","5,518.01",0.713
+American Samoa,ASM,Polynesia,n/a,n/a,n/a,n/a,n/a,n/a
+Andorra,ADO,Southern Europe,79,n/a,n/a,n/a,n/a,0.846
+Angola,AGO,Middle Africa,21472,"142,979.31","114,147.03","7,288.01","5,311.25",0.508
+Anguilla,AIA,Caribbean,n/a,380.64,n/a,"27,274.21","20,981.85",n/a
+Antigua and Barbuda,ATG,Caribbean,90,"1,757.58","1,134.16","20,540.40","13,172.13",0.76
+Argentina,ARG,South America,41446,n/a,"475,501.68",n/a,n/a,0.811
+Armenia,ARM,Western Asia,2977,"20,192.63","9,950.52","6,696.06","3,363.22",0.729
+Aruba,ABW,Caribbean,n/a,"3,671.25",n/a,"36,016.67","25,354.91",n/a
+Australia,AUS,Oceania,23343,"955,980.51","1,532,407.88","42,000.44","65,463.91",0.938
+Austria,AUT,Western Europe,8495,"360,521.87","394,454.29","42,978.11","49,589.83",0.895
+Azerbaijan,AZE,Western Asia,9413,"144,513.93","66,604.59","15,962.92","7,284.97",0.734
+"Bahamas, The",BHS,Caribbean,377,"8,293.48","8,149.00","22,639.31","21,490.36",0.794
+Bahrain,BHR,Western Asia,1332,"51,816.63","30,362.32","43,360.47","24,200.47",0.796
+Bangladesh,BGD,Southern Asia,156595,"419,214.90","116,355.06","2,800.37",874.09,0.515
+Barbados,BRB,Caribbean,285,"4,326.72","4,224.85","15,353.64","15,482.58",0.825
+Belarus,BLR,Eastern Europe,9357,"157,283.93","63,267.02","16,603.09","5,595.66",0.793
+Belgium,BEL,Western Europe,11104,"440,137.89","482,951.30","40,092.72","46,758.93",0.897
+Belize,BLZ,Central America,332,"2,597.35",n/a,"8,212.20","4,721.20",0.702
+Benin,BEN,Western Africa,10323,"16,071.10","7,557.29","1,766.07",801.07,0.436
+Bermuda,BMU,Northern America,n/a,"3,553.15","5,473.54","54,898.65","85,838.92",n/a
+Bhutan,BTN,Southern Asia,754,"5,099.02","1,779.56","7,199.31","2,600.14",0.538
+Bolivia (Plurinational State of),BOL,South America,10671,"56,389.56","27,035.11","5,557.02","2,360.07",0.675
+Bosnia and Herzegovina,BIH,Southern Europe,3829,"36,971.90","17,465.96","9,628.76","4,956.64",0.735
+Botswana,BWA,Southern Africa,2021,"27,229.31","14,504.34","13,408.58","7,380.59",0.634
+Brazil,BRA,South America,200362,"2,816,317.15","2,252,664.12","14,639.42","12,873.80",0.73
+British Virgin Islands,VGB,Caribbean,n/a,n/a,n/a,n/a,n/a,n/a
+Brunei Darussalam,BRN,South-Eastern Asia,418,"29,265.55","16,953.95","74,396.62","42,431.94",0.855
+Bulgaria,BGR,Eastern Europe,7223,"114,060.61","50,972.11","15,522.04","7,283.66",0.782
+Burkina Faso,BFA,Western Africa,16935,"22,786.14","10,726.30","1,342.90",608.06,0.343
+Burundi,BDI,Eastern Africa,10163,"6,106.47","2,472.38",712.11,240.43,0.355
+Cabo Verde/ Cape Verde,CPV,Western Africa,499,"3,066.44","1,827.02","6,125.72","3,773.30",0.586
+Cambodia,KHM,South-Eastern Asia,15135,"38,652.01","14,038.38","2,716.98",901.83,0.543
+Cameroon,CMR,Middle Africa,22254,"55,215.70","25,321.59","2,756.60","1,327.35",0.495
+Canada,CAN,Northern America,35182,"1,416,166.84","1,779,634.71","41,068.81","51,571.90",0.911
+Cayman Islands,CYM,Caribbean,n/a,"2,812.30",n/a,"49,686.31","39,699.34",n/a
+Central African Republic,CAF,Middle Africa,4616,"4,024.53","2,184.18",896.96,486.36,0.352
+Chad,TCD,Middle Africa,12825,"22,860.89","12,887.07","1,983.51","1,052.75",0.34
+Chile,CHL,South America,17620,"349,100.04","269,869.34","20,216.30","14,546.37",0.819
+China,CHN,Eastern Asia,1385567,"13,495,910.44","8,227,102.63","10,056.71","5,456.06",0.699
+Colombia,COL,South America,48321,"534,994.15","369,606.33","11,360.48","7,142.24",0.719
+Comoros,COM,Eastern Africa,735,459.75,595.9,609.8,357.69,0.429
+"Congo, Dem. Rep.",COD,Middle Africa,67514,"44,352.35","17,203.98",654.57,371.51,0.534
+"Congo, Rep.",COG,Middle Africa,4448,"24,135.95","13,677.93","5,830.30","3,574.53",0.304
+Cook Islands,COK,Polynesia,21,n/a,n/a,n/a,n/a,n/a
+Costa Rica,CRI,Central America,4872,"59,837.51","45,103.96","13,030.39","8,935.05",0.773
+Cote d'Ivoire,CIV,Western Africa,20316,"53,785.92","24,680.37","2,668.89","1,290.87",0.432
+Croatia,HRV,Southern Europe,4290,"86,838.35","59,228.25","20,308.31","14,429.24",0.805
+Cuba,CUB,Caribbean,11266,n/a,n/a,n/a,n/a,0.78
+Cyprus,CYP,Western Asia,1141,"26,572.49","22,766.91","31,228.69","29,207.69",0.848
+Czech Republic,CZE,Eastern Europe,10702,"283,887.91","196,446.23","27,045.44","20,591.85",0.873
+Denmark,DNK,Northern Europe,5619,"233,022.25","315,163.06","41,842.75","60,030.40",0.901
+Djibouti,DJI,Eastern Africa,873,"2,184.12",n/a,"2,411.89","1,275.74",0.445
+Dominica,DMA,Caribbean,72,712.79,479.69,"9,982.94","6,881.04",0.745
+Dominican Republic,DOM,Caribbean,10404,"108,968.12","59,047.20","10,857.88","5,541.25",0.702
+Ecuador,ECU,South America,15738,"151,620.39","84,039.86","9,931.54","5,225.79",0.724
+"Egypt, Arab, Rep.",EGY,Northern Africa,82056,"843,828.98","262,831.91","10,598.53","2,887.51",0.662
+El Salvador,SLV,Central America,6340,"45,998.44","23,864.40","7,357.22","3,700.97",0.68
+Equatorial Guinea,GNQ,Middle Africa,757,"28,405.02","17,697.39","39,439.75","24,621.05",0.554
+Eritrea,ERI,Eastern Africa,6333,n/a,"3,091.84",n/a,n/a,0.351
+Estonia,EST,Northern Europe,1287,"30,943.15","22,375.86","23,088.46","16,820.60",0.846
+Ethiopia,ETH,Eastern Africa,94101,"102,878.83","41,717.84","1,214.13",353.43,0.396
+Faeroe Islands,FRO,Northern Europe,n/a,n/a,n/a,n/a,n/a,n/a
+Falkland Islands (Malvinas),FLK,South America,n/a,n/a,n/a,n/a,n/a,n/a
+Fiji,FJI,Melanesia,881,"6,456.53","3,907.56","7,557.78","4,393.21",0.702
+Finland,FIN,Northern Europe,5426,"208,012.25","247,386.61","38,610.88","48,685.66",0.892
+France,FRA,Western Europe,64291,"2,369,589.06","2,611,199.85","36,391.00","42,727.86",0.893
+French Guiana,GUF,South America,n/a,n/a,n/a,n/a,n/a,n/a
+French Polynesia,PYF,Polynesia,n/a,n/a,n/a,n/a,n/a,n/a
+Gabon,GAB,Middle Africa,1672,"25,289.76","18,377.08","16,483.34","11,113.89",0.683
+Gambia,GMB,Western Africa,1849,"2,676.02",907.43,"1,506.68",508.27,0.439
+Georgia,GEO,Western Asia,4341,"28,345.98","15,747.29","6,342.52","3,230.67",0.745
+Germany,DEU,Western Europe,82727,"3,352,099.06","3,425,928.31","40,989.73","44,364.83",0.92
+Ghana,GHA,Western Africa,25905,"85,526.11","40,710.78","3,425.73","1,584.77",0.558
+Gibraltar,GIB,Southern Europe,n/a,n/a,n/a,n/a,n/a,n/a
+Greece,GRC,Southern Europe,11128,"300,833.72","248,938.66","26,622.45","25,653.72",0.86
+Greenland,GRL,Northern America,n/a,n/a,n/a,n/a,n/a,n/a
+Grenada,GRD,Caribbean,106,"1,179.03",766.51,"11,220.94","7,410.48",0.77
+Guadeloupe,GLP,Caribbean,n/a,n/a,n/a,n/a,n/a,n/a
+Guam,GUM,Micronesia,n/a,n/a,n/a,n/a,n/a,n/a
+Guatemala,GTM,Central America,15468,"102,391.16","50,233.75","6,971.26","3,246.88",0.581
+Guinea,GIN,Western Africa,11745,"13,154.58","5,631.62","1,286.91",489.51,0.355
+Guinea-Bissau,GNB,Western Africa,1704,"2,111.25",822.32,"1,364.68",636.51,0.364
+Guyana,GUY,South America,800,n/a,"2,850.57",n/a,n/a,0.636
+Haiti,HTI,Caribbean,10317,"15,579.00","7,843.48","1,556.51",733.96,0.456
+Holy See,VAT,Southern Europe,1,n/a,n/a,n/a,n/a,n/a
+Honduras,HND,Central America,8098,"33,791.21","18,434.02","4,349.44","2,282.24",0.632
+Hong Kong SAR (China),HKG,Eastern Asia,7154.6,"354,490.53","263,259.37","50,128.76","35,172.52",0.906
+Hungary,HUN,Eastern Europe,9955,"223,497.05","124,600.49","22,413.13","13,790.31",0.831
+Iceland,ISL,Northern Europe,330,"12,194.04","13,578.94","38,225.85","43,968.70",0.906
+India,IND,Southern Asia,1252140,"5,757,534.05","1,858,740.11","4,734.98","1,532.94",0.554
+Indonesia,IDN,South-Eastern Asia,249866,"2,058,129.82","878,043.03","8,538.61","3,511.24",0.629
+Iran (Islamic Republic of),IRN,Southern Asia,77447,"1,314,235.63","552,397.27","17,488.24","7,668.85",0.742
+Iraq,IRQ,Western Asia,33765,"371,045.55","215,837.91","11,129.56","4,793.74",0.59
+Ireland,IRL,Northern Europe,4627,"196,554.54","210,636.35","42,942.09","49,382.90",0.916
+Isle of Man,IMY,Northern Europe,n/a,n/a,n/a,n/a,n/a,n/a
+Israel,ISR,Western Asia,7733,"234,208.95","257,621.96","30,167.96","33,259.12",0.9
+Italy,ITA,Southern Europe,60990,"2,056,688.92","2,013,375.30","33,869.68","36,180.04",0.881
+Jamaica,JAM,Caribbean,2784,"22,944.27","14,755.05","8,329.23","5,248.33",0.73
+Japan,JPN,Eastern Asia,127144,"4,379,753.13","5,961,065.54","34,262.06","46,131.35",0.912
+Jordan,JOR,Western Asia,6318,"69,797.13","31,015.24","11,169.33","4,615.18",0.7
+Kazakhstan,KAZ,Central Asia,16441,"343,914.79","203,520.61","20,772.07","11,358.01",0.754
+Kenya,KEN,Eastern Africa,44354,"88,893.16","40,697.16","2,136.36",825.05,0.519
+Kiribati,KIR,Micronesia,102,n/a,174.98,n/a,n/a,0.629
+"Korea, PDR",PRK,Eastern Asia,24895,n/a,n/a,n/a,n/a,n/a
+"Korea, Republic ",KOR,Eastern Asia,49263,"1,445,332.48","1,129,598.27","29,034.75","22,388.26",0.909
+Kosovo,,Southern Europe,1807,n/a,"6,445.20",n/a,n/a,n/a
+Kuwait,KWT,Western Asia,3369,"257,709.72","183,242.59","84,058.16","52,378.60",0.79
+Kyrgyzstan,KGZ,Central Asia,5548,"16,105.96","6,474.84","3,062.20","1,178.37",0.622
+Lao People's Dem. Republic,LAO,South-Eastern Asia,6770,"26,229.15","9,417.67","4,107.93","1,262.43",0.543
+Latvia,LVA,Northern Europe,2050,"41,130.81","28,372.58","19,993.59","13,657.66",0.814
+Lebanon,LBN,Western Asia,4822,n/a,"42,945.27",n/a,n/a,0.745
+Lesotho,LSO,Southern Africa,2074,"4,672.77","2,447.57","2,129.95","1,150.74",0.461
+Liberia,LBR,Western Africa,4294,"2,218.95","1,733.82",537.46,277.9,0.388
+Libya,LBY,Northern Africa,6202,n/a,n/a,n/a,n/a,0.769
+Liechtenstein,LIE,Western Europe,37,n/a,n/a,n/a,n/a,0.883
+Lithuania,LTU,Northern Europe,3017,"68,196.74","42,343.52","22,521.30","14,212.34",0.818
+Luxembourg,LUX,Western Europe,530,"46,055.27","55,143.00","88,670.15","111,689.01",0.875
+Macao SAR (China),MAC,Eastern Asia,n/a,"64,300.63","43,582.27","115,440.99","66,062.91",n/a
+"Macedonia, FYR",MKD,Southern Europe,2107,"24,614.09","9,612.52","11,957.29","5,050.45",0.74
+Madagascar,MDG,Eastern Africa,22925,"30,095.72","9,975.12","1,411.94",469.73,0.483
+Malawi,MWI,Eastern Africa,16363,"14,960.07","4,263.79",972.64,476.15,0.418
+Malaysia,MYS,South-Eastern Asia,29717,"606,097.86","305,032.75","20,925.90","9,979.26",0.769
+Maldives,MDV,Southern Asia,345,"3,704.05","2,222.43","11,392.35","6,652.53",0.688
+Mali,MLI,Western Africa,15302,"23,904.05","10,387.72","1,509.14",672.25,0.344
+Malta,MLT,Southern Europe,429,"11,869.66","8,740.97","28,608.50","22,200.94",0.847
+Marshall Islands,MHL,Micronesia,53,n/a,182.4,n/a,n/a,n/a
+Martinique,MTQ,Caribbean,n/a,n/a,n/a,n/a,n/a,n/a
+Mauritania,MRT,Western Africa,3890,"11,301.76","4,199.05","3,191.20","1,295.11",0.467
+Mauritius,MUS,Eastern Africa,1244,"20,259.75","10,486.04","15,505.78","8,610.64",0.737
+Mayotte,MYT,Eastern Africa,n/a,n/a,n/a,n/a,n/a,n/a
+Mexico,MEX,Central America,122332,"1,894,552.03","1,178,126.18","16,377.12","10,115.01",0.775
+Micronesia (Fed. States of),FSM,Micronesia,104,n/a,326.16,n/a,n/a,0.645
+"Moldova, Rep.",MDA,Eastern Europe,3487,"14,877.95","7,252.77","4,179.21","1,970.50",0.66
+Monaco,MCO,Western Europe,38,n/a,n/a,n/a,n/a,n/a
+Mongolia,MNG,Eastern Asia,2839,"23,359.03","10,271.39","8,718.72","3,700.51",0.675
+Montenegro,MNE,Southern Europe,621,"8,767.77","4,373.17","14,127.89","7,244.33",0.791
+Montserrat,MSR,Caribbean,n/a,81.02,n/a,"15,762.41","11,342.72",n/a
+Morocco,MAR,Northern Africa,33008,"218,283.35","95,981.57","6,763.66","3,074.13",0.591
+Mozambique,MOZ,Eastern Africa,25834,"22,754.02","14,243.72",950.87,524.36,0.327
+Myanmar,MMR,South-Eastern Asia,53259,"192,055.36",n/a,"3,180.78",913.78,0.498
+Namibia,NAM,Southern Africa,2303,"19,429.14","13,072.28","8,360.20","5,369.08",0.608
+Nauru,NRU,Micronesia,10,n/a,"18,962.96",n/a,n/a,n/a
+Nepal,NPL,Southern Asia,27797,"58,856.31",n/a,"2,221.50",739.14,0.463
+Netherlands,NLD,Western Europe,16759,"720,274.46","770,060.39","43,149.59","49,888.02",0.921
+Netherlands Antilles,NCL,Caribbean,n/a,n/a,n/a,n/a,n/a,n/a
+New Caledonia,NZL,Melanesia,n/a,n/a,n/a,n/a,n/a,n/a
+New Zealand,NZL,Oceania,4506,"137,610.86","171,281.10","31,171.76","36,590.89",0.919
+Nicaragua,NIC,Central America,6080,"24,228.41","10,507.36","4,110.81","1,634.96",0.599
+Niger,NER,Western Africa,17831,"13,684.76","6,773.19",851.63,399.02,0.304
+Nigeria,NGA,Western Africa,173615,"511,133.73","459,615.93","3,146.00","1,520.39",0.471
+Niue,NIU,Polynesia,1,n/a,n/a,n/a,n/a,n/a
+Northern Mariana Islands,MNP,Micronesia,n/a,n/a,n/a,n/a,n/a,n/a
+Norway,NOR,Northern Europe,5043,"306,487.05","500,029.91","61,879.07","99,034.90",0.955
+Oman,OMN,Western Asia,3632,"140,441.53","78,110.79","42,618.76","21,233.87",0.731
+Pakistan,PAK,Southern Asia,182143,"788,129.24","225,143.27","4,449.94","1,254.74",0.515
+Palau,PLW,Micronesia,21,n/a,228.42,n/a,n/a,0.791
+Palestinian Territories,PSE,Western Asia,4326,"15,979.04",n/a,"3,832.95","2,344.75",0.67
+Panama,PAN,Central America,3864,"57,229.68","36,252.50","15,368.54","8,410.77",0.78
+Papua New Guinea,PNG,Melanesia,7321,n/a,"15,653.92",n/a,n/a,0.466
+Paraguay,PRY,South America,6802,"47,232.66","25,502.06","7,192.74","3,836.31",0.669
+Peru,PER,South America,30376,"327,222.43","203,790.27","10,981.47","6,065.62",0.741
+Philippines,PHL,South-Eastern Asia,98394,"543,655.11","250,182.02","5,772.20","2,379.31",0.654
+Pitcairn,PCN,Polynesia,n/a,n/a,n/a,n/a,n/a,n/a
+Poland,POL,Eastern Europe,38217,"838,048.34","489,795.49","21,752.97","13,381.51",0.821
+Portugal,PRT,Southern Europe,10608,"272,678.03","212,137.61","25,671.79","22,396.45",0.816
+Puerto Rico,PRI,Caribbean,"3,667",n/a,"101,495.81",n/a,n/a,n/a
+Qatar,QAT,Western Asia,2169,"258,067.71","192,390.10","146,520.74","97,090.69",0.834
+Reunion,REU,Eastern Africa,n/a,n/a,n/a,n/a,n/a,n/a
+Romania,ROM,Eastern Europe,21699,"344,779.44","169,396.06","16,145.59","8,549.16",0.786
+Russian Federation,RUS,Eastern Europe,142834,"3,216,934.75","2,014,774.94","22,502.20","13,297.59",0.788
+Rwanda,RWA,Eastern Africa,11777,"14,628.59","7,103.00","1,336.80",579.19,0.434
+Saint Helena,SHN,Western Africa,n/a,n/a,n/a,n/a,n/a,n/a
+Saint Kitts and Nevis,KNA,Caribbean,54,"1,090.28",767,"20,582.49","13,744.35",0.745
+Saint Lucia,LCA,Caribbean,182,"1,773.53","1,238.64","9,893.04","6,755.13",0.725
+Saint Martin (Dutch part),MAF,Caribbean,n/a,"1,234.11",n/a,"32,972.14","25,402.43",n/a
+Saint Martin (French part),MAF,Caribbean,n/a,n/a,n/a,n/a,n/a,n/a
+Saint Pierre and Miquelon,SPM,Northern America,n/a,n/a,n/a,n/a,n/a,n/a
+Saint Vincent and the Grenadines,VCT,Caribbean,109,"1,080.78",712.59,"9,883.02","6,190.80",0.733
+Samoa,WSM,Polynesia,190,n/a,683.72,n/a,n/a,0.702
+San Marino,SMR,Southern Europe,31,n/a,n/a,n/a,n/a,n/a
+Sao Tome and Principe,STP,Middle Africa,193,513.13,263.4,"3,044.81","1,473.28",0.525
+Saudi Arabia,SAU,Western Asia,28829,"1,366,703.46","711,049.60","48,163.46","23,593.82",0.782
+Senegal,SEN,Western Africa,14133,"28,638.04","14,045.76","2,243.03","1,123.20",0.47
+Serbia,SRB,Southern Europe,9511,"86,050.33","37,488.94","11,854.30","6,027.12",0.769
+Seychelles,SYC,Eastern Africa,93,"1,960.80","1,128.75","22,569.33","12,195.96",0.806
+Sierra Leone,SLE,Western Africa,6092,"8,212.33","3,796.03","1,369.30",490.46,0.359
+Singapore,SGP,South-Eastern Asia,5412,"374,760.24","276,520.03","72,295.90","51,241.74",0.895
+Slovak Republic,SVK,Eastern Europe,5450,"135,652.71","91,347.81","25,129.72","17,762.43",0.84
+Slovenia,SVN,Southern Europe,2072,"57,799.56","45,378.39","28,156.45","24,480.33",0.892
+Solomon Islands,SLB,Melanesia,561,n/a,"1,008.42",n/a,n/a,0.53
+Somalia,SOM,Eastern Africa,10496,n/a,n/a,n/a,n/a,n/a
+South Africa,ZAF,Southern Africa,52776,"611,138.77","384,312.67","12,111.36","7,962.80",0.629
+South Sudan,SSD,Eastern Africa,11296,n/a,"10,220.26",n/a,n/a,n/a
+Spain,ESP,Southern Europe,46927,"1,483,223.71","1,322,114.87","32,156.47","31,534.50",0.885
+Sri Lanka,LKA,Southern Asia,21273,"169,263.20","59,423.01","8,110.75","2,835.53",0.715
+Sudan,SDN,Northern Africa,37964,"152,425.55","58,768.80","3,607.98","1,655.97",0.414
+Suriname,SUR,South America,539,"7,808.71","5,012.12","14,462.99","8,081.53",0.684
+Swaziland,SWZ,Southern Africa,1250,"7,614.40","3,744.47","6,327.77","3,399.11",0.536
+Sweden,SWE,Northern Europe,9571,"394,624.73","523,942.29","41,761.44","56,704.40",0.916
+Switzerland,CHE,Western Europe,8078,"405,921.20","631,173.03","51,582.23","83,854.12",0.913
+Syrian Arab Republic,SYR,Western Asia,21898,n/a,n/a,n/a,n/a,0.648
+Taiwan (China),TWN,East Asia,2336,"907,144.00",n/a,"39,059.10","20,030.41",n/a
+Tajikistan,TJK,Central Asia,8208,"17,286.97","7,632.61","2,242.59",846.28,0.622
+Tanzania (United Republic),TZA,Eastern Africa,49253,"71,835.72","28,242.43","1,554.26",516.55,0.476
+Thailand,THA,South-Eastern Asia,67011,"898,963.00","365,965.82","13,298.86","5,395.30",0.69
+Timor-Leste,TMP,South-Eastern Asia,1133,n/a,"1,293.00",n/a,n/a,0.576
+Togo,TGO,Western Africa,6817,"8,087.14","3,813.83","1,313.95",598.85,0.459
+Tokelau,TKL,Polynesia,n/a,n/a,n/a,n/a,n/a,n/a
+Tonga,TON,Polynesia,105,n/a,471.58,n/a,n/a,0.71
+Trinidad and Tobago,TTO,Caribbean,1341,"38,317.23","23,320.26","28,743.34","17,659.68",0.76
+Tunisia,TUN,Northern Africa,10997,"109,315.69","45,662.04","10,318.59","4,340.21",0.712
+Turkey,TUR,Western Asia,74933,"1,314,896.51","789,257.49","17,780.89","10,434.94",0.722
+Turkmenistan,TKM,Central Asia,5240,n/a,"35,164.21",n/a,n/a,0.698
+Turks and Caicos Islands,TCA,Caribbean,n/a,662.39,n/a,"20,878.38","22,971.37",n/a
+Tuvalu,TUV,Polynesia,10,n/a,39.88,n/a,n/a,n/a
+Uganda,UGA,Eastern Africa,37579,"55,119.17","20,032.24","1,597.23",527.74,0.456
+Ukraine,UKR,Eastern Europe,45239,"379,139.83","176,308.83","8,295.17","3,575.49",0.74
+United Arab Emirates,ARE,Western Asia,9346,"503,168.07","383,799.19","60,886.23","42,181.99",0.818
+United Kingdom,GBR,Northern Europe,63136,"2,201,439.29","2,475,781.99","35,091.09","39,241.28",0.875
+United States of America,USA,Northern America,320051,"15,533,800.00","16,244,600.00","49,782.08","49,782.08",0.937
+Uruguay,URY,South America,3407,"58,687.88","49,919.73","17,342.96","13,722.00",0.792
+Uzbekistan,UZB,Central Asia,28934,n/a,"51,112.75",n/a,n/a,0.654
+Vanuatu,VUT,Melanesia,253,n/a,787.07,n/a,n/a,0.626
+Venezuela (Bolivarian Republic of),VEN,South America,30405,"500,326.03","381,286.24","16,964.81","10,731.12",0.748
+Viet Nam,VNM,South-Eastern Asia,91680,"414,339.08","155,820.00","4,716.97","1,543.03",0.617
+Virgin Islands (United States),TCA,Caribbean,n/a,851.25,n/a,"30,290.40","32,579.88",n/a
+Wallis and Futuna Islands,WLF,Polynesia,n/a,n/a,n/a,n/a,n/a,n/a
+Western Sahara,ESH,Northern Africa,n/a,n/a,n/a,n/a,n/a,n/a
+Yemen,YEM,Western Asia,24407,"88,565.78","35,737.15","3,716.10","1,317.81",0.458
+Zambia,ZMB,Eastern Africa,14539,"42,509.94","20,590.28","3,154.74","1,543.65",0.448
+Zimbabwe,ZWE,Eastern Africa,14150,"17,575.27","9,802.36","1,377.98",695.09,0.397
