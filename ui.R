@@ -18,7 +18,10 @@ shinyUI(navbarPage("World Indices",
     mainPanel(
             rCharts::chartOutput('popPlot', 'datamaps'))
     ),
-    tabPanel("About", h3("Sources"),
+    tabPanel("About", 
+             h5("Git Hub Repository:"), a("https://github.com/blackCatMargarita/DevDataProd_Project", href="https://github.com/blackCatMargarita/DevDataProd_Project"),
+             h5("Slidify Presentation:"), a("http://blackcatmargarita.github.io/DevDataProd_Project", href="http://blackcatmargarita.github.io/DevDataProd_Project"),
+             h3("Sources"),
              h5("Population"), h6("UN Population Division, Policy Section: http://esa.un.org/PopPolicy/cprofile_report.aspx  
                                   and http://data.worldbank.org/indicator/SP.POP.TOTL 2012"),
                             h6("Population, total refers to the total population. (1) United Nations Population Division. World Population Prospects, 
